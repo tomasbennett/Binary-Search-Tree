@@ -1,0 +1,13 @@
+{
+  "name": "binary-search-tree",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Using javascript to create a binary search tree without accepting duplicate values.",
+  "main": "Tree.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
